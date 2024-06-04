@@ -6,7 +6,7 @@ Participantes : Vinicius Cont e Italo Caliari
 
 Bom Dia professor ,Tudo bem ?
 
-link do projeto: https://www.tinkercad.com/things/dvb8NmaAERE-copy-of-checkpoint/editel?sharecode=C-7m7M9j8zf-X12NcQX38UezNjAiPbxk4mliskbYmoY&sharecode=C-7m7M9j8zf-X12NcQX38UezNjAiPbxk4mliskbYmoY
+link do projeto: https://www.tinkercad.com/things/dvb8NmaAERE-gs-arduino?sharecode=Zl9-en66HfjDvJBYn21CxWB8MetvV4P3T27AeNoKp3o
 
 
 Este é um projeto que ultiliza um sensor de distância ultrassônico que ultiliza o sensor HC-SR04 e um LED para Indeicar qaundo tem lixo (residuos,Plastico) em uma distacia de 10 cm de distancia quando liga o LED e indica que tem lixo por perto.
